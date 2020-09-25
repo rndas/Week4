@@ -1,0 +1,43 @@
+
+  <style>
+
+    body{
+      background-color: #ede3f8;
+    }
+
+    #header {
+      background-color: #967D1B;
+      color:white;
+      padding:20px;
+    }
+
+    h1{
+      color: white;
+    }
+    h2, h3 {
+      color:#967d1b;
+    }
+    
+    #para2{
+      padding: 20px;
+      border: 2px solid;
+      margin: 40px;
+      border-color: black;
+    }
+
+    ul{
+      padding: 20px;
+      border: 2px dotted;
+      border-width: 4px;
+      border-color: #9671db;
+    }
+
+    table{
+      margin: 50px;
+      border: 4px dotted;
+      border-width: 4px;
+      text-align: center;
+    }
+
+
+  </style>
